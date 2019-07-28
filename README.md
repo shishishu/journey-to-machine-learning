@@ -85,3 +85,4 @@ I will share my learning path and it is meaningful as records personally. Hope i
 ### More
 - Let's play with data
 - New perspective will be provided by Machine Learning
+- Big thanks to Tao Li, Haha Hu, Jiajia Cong, Jianxiong Ma
