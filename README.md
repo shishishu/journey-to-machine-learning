@@ -80,7 +80,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 ##### [Job Hunting]
 
-#### Jul 2019, soon
+#### Refresh on Jan 2020 next time.
 
 ### More
 - Let's play with data
