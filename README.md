@@ -40,7 +40,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 - [Online videos](https://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about)
 - Data Structure II should be continued
 
-##### [Book] [Practical Statistics for Data Scientists](https://book.douban.com/subject/26857653/)
+##### [Book] [面向数据科学家的实用统计学](https://book.douban.com/subject/30354581/)
 
 #### Jan 2019 to Feb 2019, 2 months
 ##### [Project] [广告点击率预测：Criteo CTR](https://www.kaggle.com/c/criteo-display-ad-challenge/overview)
@@ -53,7 +53,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 - Feature selection: avoid overfitting in test dataset
 - Practice with XGBoost
 
-##### [Programming] [Tensorflow for Deep Learning Research, by Chip Huyen@Stanford](http://web.stanford.edu/class/cs20si/)
+##### [Course] [Tensorflow for Deep Learning Research, by Chip Huyen@Stanford](http://web.stanford.edu/class/cs20si/)
 
 ##### [Intern Hunting]
 
