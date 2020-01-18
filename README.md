@@ -9,7 +9,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 #### Jul 2019 to Dec 2019, 6 months
 
-##### [Job at BILIBILI] Algorithm Engineer
+##### [Work at BILIBILI] Algorithm Engineer
 
 ##### [Algorithms] Video Content Understanding
 - Classification with XGBoost, BERT (binary/multi-label)
