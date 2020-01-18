@@ -8,6 +8,9 @@ I will share my learning path and it is meaningful as records personally. Hope i
 #### *Phase 3*
 
 #### Jul 2019 to Dec 2019, 6 months
+
+##### [Job at BILIBILI] Algorithm Engineer
+
 ##### [Algorithms] Video Content Understanding
 - Classification with XGBoost, BERT (binary/multi-label)
 - Fine tune large BERT models with multi-gpu support
@@ -24,8 +27,8 @@ I will share my learning path and it is meaningful as records personally. Hope i
 ##### [CS fundamentals] Data Structure
 - [Data Structure I, by 邓金辉@THU](https://next.xuetangx.com/learn/THU08091000384/THU08091000384/1391601/article/1007134)
 - [leetcode-python-java](https://github.com/shishishu/leetcode-python-java):
-    - Update continuously
-    - Interactive as jupyter notebook and implemented in Java also
+    - update continuously
+    - interactive as jupyter notebook and implemented in Java also
     
 ##### [Programming] Java
 - [Java基础入门笔记](https://github.com/JackChan1999/Java_Basic_Introduction)
@@ -38,8 +41,8 @@ I will share my learning path and it is meaningful as records personally. Hope i
 #### Jan 2019 to Feb 2019, 2 months
 ##### [Project] [广告点击率预测：Criteo CTR](https://www.kaggle.com/c/criteo-display-ad-challenge/overview)
 - [Codes at Github, by lambdaji](https://github.com/lambdaji/tf_repos)
-    - A good introduction to CTR field: mainstream models are covered, including FM, FFM, DeepFM, Wide&Deep and etc.
-    - A good tutorial to tensorflow framework: codes are implemented by tensorflow and high-level APIs e.g. tf.Estimator and tf.Serving are used
+    - a good introduction to CTR field: mainstream models are covered, including FM, FFM, DeepFM, Wide&Deep and etc.
+    - a good tutorial to tensorflow framework: codes are implemented by tensorflow and high-level APIs e.g. tf.Estimator and tf.Serving are used
 - Papers reading: to understand CTR models systematically
 
 ##### [Project] [支付风险识别：ATEC Payrisk](https://dc.cloud.alipay.com/index#/topic/intro?id=9)
@@ -114,6 +117,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 ##### [Book] [面向数据科学家的实用统计学](https://book.douban.com/subject/30354581/)
 
 
+***
 #### Refresh on Jul 2020 next time.
 
 ### More
