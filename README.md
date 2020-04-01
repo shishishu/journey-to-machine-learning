@@ -1,4 +1,4 @@
-## Way to Machine Learning
+## Journey to Machine Learning
 
 ### General
 I will share my learning path and it is meaningful as records personally. Hope it helps.
