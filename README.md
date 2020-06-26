@@ -5,7 +5,30 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 ### Update
 ***
-#### *Phase 3*
+#### *Phase 3b*
+
+#### Jan 2020 to Jun 2020, 6 months
+
+##### [Business] 
+- Video Content Understanding: more insights in tags
+- Transfer to Advertising Department from Jun 2020
+
+##### [CS fundamentals] Data Structure
+- [Data Structure II, by 邓金辉@THU](https://next.xuetangx.com/course/THU08091002048/1515966?fromArray=learn_title): 
+    - Chapter 7-9 is done
+    - Chapter 10-12 is pending
+- [leetcode-python-java](https://github.com/shishishu/leetcode-python-java): ~20
+
+##### [Programming] Scala/Spark
+- [spark-scala-learner](https://github.com/shishishu/spark-scala-learner)
+
+##### [Project] [tencent-ad-2020](https://github.com/shishishu/tencent-ad-2020)
+- final score: 1.401474
+- rank: 242
+
+
+***
+#### *Phase 3a*
 
 #### Jul 2019 to Dec 2019, 6 months
 
@@ -14,7 +37,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 ##### [Algorithms] Video Content Understanding
 - Classification with XGBoost, BERT (binary/multi-label)
 - Fine tune large BERT models with multi-gpu support
-- Extensive paper reading and summary sharing: [Pre-trained Language Models](https://github.com/shishishu/way-to-machine-learning/blob/master/docs/pretrained_language_models_201912.pptx)
+- Extensive paper reading and summary sharing: [Pre-trained Language Models](https://github.com/shishishu/journey-to-machine-learning/blob/master/docs/pretrained_language_models_201912.pptx)
 
 ##### [Engineering]
 - Model: publish and online serving
