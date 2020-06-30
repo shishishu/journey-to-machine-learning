@@ -15,9 +15,9 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 ##### [CS fundamentals] Data Structure
 - [Data Structure II, by 邓金辉@THU](https://next.xuetangx.com/course/THU08091002048/1515966?fromArray=learn_title): 
-    - Chapter 7-9 is done
-    - Chapter 10-12 is pending
-- [leetcode-python-java](https://github.com/shishishu/leetcode-python-java): ~20
+    - Chapter 7-10 is done
+    - Chapter 11-12 is pending
+- [leetcode-python-java](https://github.com/shishishu/leetcode-python-java): 21
 
 ##### [Programming] Scala/Spark
 - [spark-scala-learner](https://github.com/shishishu/spark-scala-learner)
