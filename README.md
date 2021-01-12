@@ -3,7 +3,26 @@
 ### General
 I will share my learning path and it is meaningful as records personally. Hope it helps.
 
+### Next step: to be qualified (phase 4 in 2021)
+
 ### Update
+
+***
+#### *Phase 3c*
+
+#### Jul 2020 to Dec 2020, 6 months
+
+##### [Business]
+- Online Advertising: recall, rank 
+
+##### [CS fundamentals] Data Structure
+- [Data Structure II, by 邓金辉@THU](https://next.xuetangx.com/course/THU08091002048/1515966?fromArray=learn_title)
+
+##### [Programming]
+- Data application: Scala/Spark/Hadoop Streaming/Shell
+- Code reading: Java/C++
+
+
 ***
 #### *Phase 3b*
 
