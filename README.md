@@ -3,7 +3,7 @@
 ### General
 I will share my learning path and it is meaningful as records personally. Hope it helps.
 
-### Next step: to be qualified (phase 4 in 2021)
+### Next step: to be qualified with depth (phase 4 in 2021)
 
 ### Update
 
@@ -13,7 +13,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 #### Jul 2020 to Dec 2020, 6 months
 
 ##### [Business]
-- Online Advertising: recall, rank 
+- Online advertising modules: recall, rank
 
 ##### [CS fundamentals] Data Structure
 - [Data Structure II, by 邓金辉@THU](https://next.xuetangx.com/course/THU08091002048/1515966?fromArray=learn_title)
@@ -160,7 +160,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 
 ***
-#### Refresh on Jul 2020 next time.
+#### Refresh on Jul 2021 next time.
 
 ### More
 - Let's play with data
