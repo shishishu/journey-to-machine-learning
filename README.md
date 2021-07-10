@@ -8,6 +8,24 @@ I will share my learning path and it is meaningful as records personally. Hope i
 ### Update
 
 ***
+#### *Phase 4a*
+
+#### Jan 2021 to Jun 2021, 6 months
+
+##### [Business]
+- Basic understangding of flow of online advertising
+- Ranking module:
+    - System design
+    - Model training and CTR/CVR predictions
+
+##### [CS fundamentals] 
+- [C语言编程，翁恺@ZJU](https://www.bilibili.com/video/BV1sJ411E7St)
+- [计算机组成原理，刘卫东@THU](https://www.bilibili.com/video/BV1jE41177sS)
+
+##### [Programming]
+- Code reading: C++
+
+***
 #### *Phase 3c*
 
 #### Jul 2020 to Dec 2020, 6 months
@@ -160,7 +178,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 
 ***
-#### Refresh on Jul 2021 next time.
+#### Refresh on Jan 2022 next time.
 
 ### More
 - Let's play with data
