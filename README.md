@@ -13,7 +13,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 #### Jan 2021 to Jun 2021, 6 months
 
 ##### [Business]
-- Basic understangding of flow of online advertising
+- Basic understanding of flow of online advertising
 - Ranking module:
     - System design
     - Model training and CTR/CVR predictions
