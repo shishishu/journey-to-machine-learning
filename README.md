@@ -3,9 +3,23 @@
 ### General
 I will share my learning path and it is meaningful as records personally. Hope it helps.
 
-### Next step: to be qualified with depth (phase 4 in 2021)
+### Next step: to be qualified with depth (phase 5 in 2022)
 
 ### Update
+
+***
+#### *Phase 4b*
+
+#### Jul 2021 to Dec 2021, 6 months
+
+##### [Business]
+- Ranking module: CTR model exp
+    - feature engineering
+    - realtime training
+
+##### [CS fundamentals] 
+- [Digital Design & Computer Arch, by Mutlu@ETH](https://www.bilibili.com/video/BV1MA411s7qq)
+- [操作系统：设计与实现，蒋炎岩@NJU(in-progress)](https://www.bilibili.com/video/BV1N741177F5)
 
 ***
 #### *Phase 4a*
@@ -178,7 +192,7 @@ I will share my learning path and it is meaningful as records personally. Hope i
 
 
 ***
-#### Refresh on Jan 2022 next time.
+#### Refresh on Jul 2022 next time.
 
 ### More
 - Let's play with data
